@@ -4,6 +4,6 @@ $ = require('jquery');
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
-})('The most BLUE loveable minds in Art');
+})('The most BLUE slut minds in Art');
 
 fill;
